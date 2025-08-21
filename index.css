@@ -81,7 +81,7 @@ footer {
 .ods-container-2-pg2 {
   display: flex;
   flex-grow: 1;
-  gap: 20px;
+  gap: 10px;
   flex-direction: column;
 }
 
@@ -117,5 +117,9 @@ footer {
 }
 
 h3 {
+  margin: 0px;
+}
+
+h4 {
   margin: 0px;
 }
